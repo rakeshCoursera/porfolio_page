@@ -1,0 +1,53 @@
+body {
+  background-color:#b3b3b3;
+  padding: 50px 0px 0px 0px;
+  font-size: 16px;
+}
+
+.navbar #nav > .active > a {
+    color: black;
+    background-color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#home {
+  background-color: #bea7a7;
+  padding: 10px;
+  border-style: none ridge;
+}
+
+#experience {
+  background-color: #b894b8;
+  padding: 10px;
+   border-style: groove ridge;
+}
+
+#portfolio {
+  background-color: #df9f9f;
+  padding: 10px;
+   border-style: none ridge;
+}
+
+#contact {
+  background-color: #b89494;
+  padding: 10px;
+  font-size: 24px;
+  border-style: groove ridge;
+}
+
+#contact a{
+  margin: 10px;
+  border-radius: 5px;
+}
+
+footer {
+  padding: 20px;
+  color: white;
+  text-align: center;
+  background-color: black;
+}
+
+footer p {
+  display: inline;
+}
